@@ -1,0 +1,26 @@
+.wrapper{
+    width: calc((100% - 30px) / 3);
+    height: auto;
+    margin: 0px 30px;
+    text-align: center;
+    box-shadow: 0px 2px 15px rgb(0 0 0 / 10%);
+    background-color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.image{
+    display: block;
+    max-height: 300px;
+    max-width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.title{
+    color: #fd680e;
+    font-weight: 700;
+}
+.description{
+    color: #5e5e5e;
+    font-size: 16px;
+    margin: 0px 10px 20px 10px;
+}

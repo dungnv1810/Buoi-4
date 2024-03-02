@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: 0px;
+}
+.app-wapper{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: auto;
+    padding: 32px 0px;
+    background-color: #fff7f2;
+}

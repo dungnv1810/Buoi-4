@@ -1,0 +1,25 @@
+{
+  "usernames": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn Dũng",
+      "phone": "0345630366",
+      "email": "dungcoi459@gmail.com",
+      "address": "Hương Sơn - Mỹ Đức - Hà Nội"
+    },
+    {
+      "id": 2,
+      "name": "Nguyễn Văn Hùng",
+      "phone": "0345630366",
+      "email": "hungnv459@gmail.com",
+      "address": "Hương Sơn - Mỹ Đức - Hà Nội"
+    },
+    {
+      "name": "Nguyễn Thị Hoa",
+      "phone": "0345630366",
+      "email": "hoamt@gmail.com",
+      "address": "Ha Noi",
+      "id": 3
+    }
+  ]
+}
